@@ -6,13 +6,19 @@
       "value": "myStorageAccount"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "NickDavies123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Password01"
     },
     "dnsNameForPublicIP": {
       "value": "myDnsName"
+    },
+    "location":{
+      "value": "West US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
     }
   }
 }
